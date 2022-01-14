@@ -1,0 +1,20 @@
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.exe.config
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.exe
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.pdb
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csprojResolveAssemblyReference.cache
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm_Project.Form1.resources
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm_Project.Properties.Resources.resources
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csproj.GenerateResource.Cache
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.exe
+D:\MyProject\Visual Studio 2017\Projects\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.pdb
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.exe.config
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.exe
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\bin\Debug\Algorithm Project.pdb
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csproj.AssemblyReference.cache
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm_Project.Form1.resources
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm_Project.Properties.Resources.resources
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csproj.GenerateResource.cache
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csproj.CoreCompileInputs.cache
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.exe
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.pdb
+D:\_MyProject\Visual Studio 2017\Projects\goooooooooood\Algorithm Project\Algorithm Project\obj\Debug\Algorithm Project.csproj.SuggestedBindingRedirects.cache
